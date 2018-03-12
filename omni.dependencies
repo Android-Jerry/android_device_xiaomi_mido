@@ -4,5 +4,11 @@
     "repository": "TeamWin/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "revision":"android-8.0"
+  },
+  {
+    "remote":"omnirom",
+    "repository": "android_kernel_xiaomi_msm8953",
+    "target_path": "kernel/xiaomi/msm8953",
+    "revision":"android-8.1"
   }
 ]
